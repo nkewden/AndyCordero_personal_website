@@ -1,1 +1,1 @@
-# AndyCordero_personal_website
+Creating a personal website for Andy Cordeo 
