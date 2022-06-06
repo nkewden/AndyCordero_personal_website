@@ -1,0 +1,79 @@
+.main {
+    font-family: sans-serif;
+    color: #d53959;
+    font-size: 30px;
+
+}
+
+.biography {
+    font-family: sans-serif;
+    color:#d53959;
+    padding: 20px;
+    border: 3px solid orange;
+    background: #66ef92;
+    margin-bottom: 24px;
+    font-size: 22px;
+}
+
+.img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+img {
+    width: 400px;
+    border-radius: 0cm;
+    border: #d53959;
+}
+
+body{
+    background: lightblue;
+
+}
+
+
+.portfolio {
+    font-family: cursive;
+    color: #d53959;
+    padding: 20px;
+    border: 3px solid orange;
+    margin-bottom: 24px;
+    background: #66ef92;
+}
+
+.virtual {
+    font-family: cursive;
+    color: #d53959;
+    padding: 20px;
+    border: 1px solid orange;
+    margin-bottom: 24px;
+    background: #398e54;
+}
+
+.Schedule {
+    font-family: cursive;
+    color: #d53959;
+    padding: 20px;
+    border: 1px solid orange;
+    margin-bottom: 24px;
+    background: #398e54;
+}
+
+.PostWize {
+    font-family: cursive;
+    color: #d53959;
+    padding: 20px;
+    border: 1px solid orange;
+    margin-bottom: 24px;
+    background: #398e54;
+}
+
+.flex-box-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
