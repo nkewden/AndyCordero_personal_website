@@ -1,1 +1,1 @@
-#created a personal website for a SITE fellow named Andy Cordeo
+#created a personal website for a SITE fellow named Andy Cordero
